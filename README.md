@@ -1,5 +1,5 @@
 - Hello! My name is Ada Fender (she/her).
 - I'm currently a third year student at Drake University studying Computer Science and Artificial Intelligence, with minors in Cybersecurity and Music.
 - I am especially interested in Ui/UX after taking a Human Computer Interaction course last year.
-- I also love to explore the ways computer science intersects with creative fields, like music and art.
+- I'd also to explore the ways computer science intersects with creative fields, like music and art.
 - My LinkedIn: https://www.linkedin.com/in/ada-fender/
